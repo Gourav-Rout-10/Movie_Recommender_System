@@ -11,3 +11,6 @@ NOTE :: Please watch the linkedin video for better understading as the similarit
  vector format, before further computation and analysis.
 
  Then used streamlit to create website for the model where we can search movies and it will return similar movies to us.
+
+
+ TECHSTACK:  Python, Scikit-learn, NLTK, Streamlit, Pandas, Pickle, CountVectorizor
